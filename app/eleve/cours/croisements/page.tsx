@@ -122,7 +122,8 @@ export default function CroisementsPage() {
         <div style={keyPointsBox}>
           <div style={keyPoint}>✓ Toujours serrer à droite lors d'un croisement</div>
           <div style={keyPoint}>✓ Obstacle de votre côté = vous cédez le passage</div>
-          <div style={keyPoint}>✓ Gros véhicule laisse passer le petit (> 2m x 7m)</div>
+          <div style={keyPoint}>✓ Gros véhicule laisse passer le petit (plus de 2m x 7m)</div>
+
           <div style={keyPoint}>✓ Pont étroit : regarder le sens de la flèche sur le panneau</div>
           <div style={keyPoint}>✓ En descente : celui qui descend s'arrête en premier</div>
           <div style={keyPoint}>✓ Camion vs autocar : toujours le camion qui recule</div>
